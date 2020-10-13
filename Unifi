@@ -1,0 +1,8 @@
+#!/bin/sh
+
+sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get autoremove && sudo apt-get autoclean
+sudo apt-get install haveged -y
+sudo apt install default-jdk -y
+
+wget https://dl.ui.com/unifi/6.0.23/unifi_sysvinit_all.deb
+sudo dpkg -i unifi_sysvinit_all.deb; sudo apt-get install -f -y
