@@ -7,3 +7,11 @@ wget https://raw.githubusercontent.com/Benjaplusx/script/main/Unifi
 wget https://raw.githubusercontent.com/Benjaplusx/script/main/Assistant
 
 wget https://raw.githubusercontent.com/Benjaplusx/script/main/AdguardHome
+
+chmod +x VPN
+
+chmod +x Unifi
+
+chmod +x Assistant
+
+chmod +x AdguardHome
