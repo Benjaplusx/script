@@ -1,0 +1,9 @@
+#!/bin/sh
+
+wget https://raw.githubusercontent.com/Benjaplusx/script/main/VPN
+
+wget https://raw.githubusercontent.com/Benjaplusx/script/main/Unifi
+
+wget https://raw.githubusercontent.com/Benjaplusx/script/main/Assistant
+
+wget https://raw.githubusercontent.com/Benjaplusx/script/main/AdguardHome
