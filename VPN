@@ -1,4 +1,5 @@
 #!/bin/sh
+# https://raspberrytips.nl/pivpn-de-eenvoudige-manier-om-openvpn-te-installeren/
 
 sudo apt-get update
 sudo apt-get upgrade
